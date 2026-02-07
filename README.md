@@ -93,12 +93,3 @@ An IoT-based patient monitoring system that acquires, processes, and transmits p
 - **Cloud**: ThingsBoard IoT Platform
 - **Configuration**: Digi XCTU (XBee)
 
-## Team
-
-- Nagulakonda Srikar
-- Akash Pasala
-- Nikhil Kumar Kambampati
-- Rishith Vulli
-- Tharunbharathi Mohanarangan
-
-*Submitted to Dr. Meetha V Shenoy, Department of EEE, BITS Pilani*
